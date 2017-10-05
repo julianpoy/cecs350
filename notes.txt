@@ -1,0 +1,90 @@
+CECS 350:
+
+Phases in history of Cybertechnology:
+Phase 1: 1950-1960:
+	Computing tech in its infancy
+	Very small disk space
+	Ignorant people wondered:
+		Computers would be "giant brains" - how do we differentiate between computers and humans?
+		Privacy - Ignorance of how a computer worked
+
+Phase 2: 1970-1980:
+	Computers start networking
+	Computers used as communication devices
+	Privately owned networks
+
+	Ethical questions that arose:
+		Privacy concerns?
+		Intellectual property - computers and the "perfect copy"
+		Computer crime - hackers and such
+
+Phase 3: 1990-present day:
+	WWW become commonplace
+	Society is connected all of the time
+
+	Ethical questions that arose:
+		Free speech - Censorship?
+		Anonymity - Are we protected if we choose to be?
+		Jurisdiction - Whose laws rule the web?
+	
+Phase 4: present day-near future:
+	Social networking makes up 1 out of every 4 minutes spent online
+	Computers are becoming a part of us
+
+	Ethical questions that are arising:
+		Autonomous machines and robots used in war... etc
+
+
+3 perspectives of applied ethics
+
+	Professional Ethics (normative)
+		aims to identify and analyze ethical responsibility for professionals in a field of study
+		commonly draw on ethical situations that have arisen in other fields to help guide them to ethical conclusions
+		they usually examine ethical issues that can create policy vaccums
+
+		Fields:
+			
+	Philosophical Ethics (normative)
+		uses a 3-part system called the "standard methodology" to offer solutions to more difficult ethical issues
+		1. identify a particular controversial practice as a moral problem
+		2. define concepts and examine the factual data associated with that concept
+		3. apply moral theories and principles to reach a conclusion about the moral issue (take a side)
+	Sociological Ethics (descriptive)
+		aims to describe and report how society, groups and individuals view a particular moral issue
+		if we understand how people view moral issues (descriptive), we can gain insight into the ethical worth of those issues (normative)
+		for example, if we know what people consider to be a "friend", we can understand more about the moral issues behind social networking "friends" terminology
+
+Normative approach - Prescribe what ought to be the case
+Descriptive approach - Report or describe what is the case
+
+
+Components of activism (Civil disobenience):
+
+ethically motivated (can be twisted by utilitarianism)
+accept responsibility
+doesnt damage property
+non violent
+doesn't seek profit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
