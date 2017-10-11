@@ -2,57 +2,57 @@ CECS 350:
 
 Phases in history of Cybertechnology:
 Phase 1: 1950-1960:
-	Computing tech in its infancy
-	Very small disk space
-	Ignorant people wondered:
-		Computers would be "giant brains" - how do we differentiate between computers and humans?
-		Privacy - Ignorance of how a computer worked
+    Computing tech in its infancy
+    Very small disk space
+    Ignorant people wondered:
+        Computers would be "giant brains" - how do we differentiate between computers and humans?
+        Privacy - Ignorance of how a computer worked
 
 Phase 2: 1970-1980:
-	Computers start networking
-	Computers used as communication devices
-	Privately owned networks
+    Computers start networking
+    Computers used as communication devices
+    Privately owned networks
 
-	Ethical questions that arose:
-		Privacy concerns?
-		Intellectual property - computers and the "perfect copy"
-		Computer crime - hackers and such
+    Ethical questions that arose:
+        Privacy concerns?
+        Intellectual property - computers and the "perfect copy"
+        Computer crime - hackers and such
 
 Phase 3: 1990-present day:
-	WWW become commonplace
-	Society is connected all of the time
+    WWW become commonplace
+    Society is connected all of the time
 
-	Ethical questions that arose:
-		Free speech - Censorship?
-		Anonymity - Are we protected if we choose to be?
-		Jurisdiction - Whose laws rule the web?
-	
+    Ethical questions that arose:
+        Free speech - Censorship?
+        Anonymity - Are we protected if we choose to be?
+        Jurisdiction - Whose laws rule the web?
+    
 Phase 4: present day-near future:
-	Social networking makes up 1 out of every 4 minutes spent online
-	Computers are becoming a part of us
+    Social networking makes up 1 out of every 4 minutes spent online
+    Computers are becoming a part of us
 
-	Ethical questions that are arising:
-		Autonomous machines and robots used in war... etc
+    Ethical questions that are arising:
+        Autonomous machines and robots used in war... etc
 
 
 3 perspectives of applied ethics
 
-	Professional Ethics (normative)
-		aims to identify and analyze ethical responsibility for professionals in a field of study
-		commonly draw on ethical situations that have arisen in other fields to help guide them to ethical conclusions
-		they usually examine ethical issues that can create policy vaccums
+    Professional Ethics (normative)
+        aims to identify and analyze ethical responsibility for professionals in a field of study
+        commonly draw on ethical situations that have arisen in other fields to help guide them to ethical conclusions
+        they usually examine ethical issues that can create policy vaccums
 
-		Fields:
-			
-	Philosophical Ethics (normative)
-		uses a 3-part system called the "standard methodology" to offer solutions to more difficult ethical issues
-		1. identify a particular controversial practice as a moral problem
-		2. define concepts and examine the factual data associated with that concept
-		3. apply moral theories and principles to reach a conclusion about the moral issue (take a side)
-	Sociological Ethics (descriptive)
-		aims to describe and report how society, groups and individuals view a particular moral issue
-		if we understand how people view moral issues (descriptive), we can gain insight into the ethical worth of those issues (normative)
-		for example, if we know what people consider to be a "friend", we can understand more about the moral issues behind social networking "friends" terminology
+        Fields:
+            
+    Philosophical Ethics (normative)
+        uses a 3-part system called the "standard methodology" to offer solutions to more difficult ethical issues
+        1. identify a particular controversial practice as a moral problem
+        2. define concepts and examine the factual data associated with that concept
+        3. apply moral theories and principles to reach a conclusion about the moral issue (take a side)
+    Sociological Ethics (descriptive)
+        aims to describe and report how society, groups and individuals view a particular moral issue
+        if we understand how people view moral issues (descriptive), we can gain insight into the ethical worth of those issues (normative)
+        for example, if we know what people consider to be a "friend", we can understand more about the moral issues behind social networking "friends" terminology
 
 Normative approach - Prescribe what ought to be the case
 Descriptive approach - Report or describe what is the case
@@ -65,6 +65,117 @@ accept responsibility
 doesnt damage property
 non violent
 doesn't seek profit
+
+
+4 categories of hacking:
+- Black hat hacking
+    - Smash and grab
+    - Criminal hacking for fast profit
+- White hat hacking
+    - When you get permission first, then hack
+- Ethical hacking
+    - Hacking for a 'good cause'
+- Grey hat hacking
+    - Everything else
+
+
+Cyber criminals (steal credit cards, etc) - Black hat
+Spammers and adware spreaders - Black hat
+Advanced Persistent Threat (IP theft from safe harbor) - Black hat
+Corporate spies (APT but from non-safe harbor) - Black hat
+Hacktivists - Black hat, Ethical hacking, Grey hat hacking
+Cyber Warriors - Black hat, white hat, ethical hacking, grey hat
+Rogue hackers - Black hat, Ethical hacking, Grey hat hacking
+
+
+### Midterm review:
+Privacy -
+3 types:
+- Accessibility
+    - Right to be alone
+    - Personal protection
+- Decisional privacy
+    - Freedom to make own decision without being impeded on
+- Informational privacy
+    - Freedom to information protection
+    - Control over your own information
+
+2 differentiators between types of privacy:
+- Normative
+    - Privacy that is violated when lost. Someone overstepped their bounds.
+- Descriptive
+    - Privacy that is naturally lost (walking outside)
+Descriptive loss becomes normative loss when... (it's subjective)
+
+Errors & failures:
+- Problems for individuals
+- System failures
+- Safety critical failures
+Order is important!
+
+Utilitarianism & deontology:
+- Utilitarianism
+    - Whatever benefits the greatest good
+    - Things can be justified
+    - Cons:
+    - Can be used to work around stuff
+- Deontology
+    - What is right is right, what is wrong is wrongs
+    - Very easy to determine what is 'right'
+    - Cons:
+    - No grey area
+    - Very rigid
+    - Policy vaccum weakness
+    - Can't choose between bad and bad (no worse)
+
+Cybertechnology:
+- Involves data
+
+Positive & negative rights:
+- Positive
+    - Someone has to do something to help you have that right.
+- Negative
+    - Nothing is required for you to keep your rights.
+
+Responsibility & Liability:
+- Responsibility
+    - Not on test
+- Liability
+    - Not on test
+
+Applied ethics:
+- Ethics that can be applied
+- Things that we can apply ethics to now
+- Types of applied ethics
+    - Professional (ethics at work)
+    - Philosophical (scientific method)
+        - Hypothesis, gather data, apply research
+    - Socialogical (observes and reports data)
+- Normative & descriptive
+    - Normative
+        - How ethics *should be* applied
+        - Professional and Philosophical
+    - Descriptive
+        - What is the case
+        - Socialogical
+
+Discussion stoppers to ethics:
+- People disagree
+- Morality is cultural
+- People judge others
+- Ethics is private
+
+Policy vaccum:
+- Gray area not covered by laws
+
+Data gathering:
+- Merging
+    - Combining databases
+- Matching
+    - Comparing between datasets
+- Mining
+    - Identifies non-obvious trends from Merging and Matching
+    - Example: Credit risk
 
 
 
